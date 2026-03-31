@@ -1,0 +1,38 @@
+# 🔹 Dependencies
+node_modules/
+
+# 🔹 Environment variables 
+.env
+.env.*
+!.env.example
+
+# 🔹 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🔹 Build output 
+dist/
+build/
+
+# 🔹 Cache / Temp files
+.cache/
+.tmp/
+.temp/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔹 Misc
+*.pid
+*.seed
+*.pid.lock
