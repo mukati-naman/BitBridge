@@ -69,7 +69,7 @@ project-root/
 ### 1️⃣ Clone the repository
 ```
 git clone https://github.com/mukati-naman/BitBridge.git
-cd your-repo-name
+cd BitBridge
 ```
 
 ### 2️⃣ Setup Backend
