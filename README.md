@@ -68,7 +68,7 @@ project-root/
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mukati-naman/BitBridge.git
 cd your-repo-name
 ```
 
@@ -88,17 +88,6 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
-
-Create a `.env` file in the backend folder and add:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JUDGE0_API_KEY=your_api_key
-REDIS_URL=your_redis_url
-JWT_SECRET=your_secret
-```
 
 ---
 
@@ -132,8 +121,8 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ## 📧 Contact
 **Naman Mukati**  
-- GitHub: https://github.com/your-username
-- LinkedIn: (Add your LinkedIn here)
+- GitHub: https://github.com/mukati-naman
+- LinkedIn: https://www.linkedin.com/in/naman-mukati-8885172a2/
 
 ---
 
